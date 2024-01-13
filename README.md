@@ -1,2 +1,2 @@
 # PRODIGY_ML_1
-new repo
+Prodigy ML Internship Task 1
